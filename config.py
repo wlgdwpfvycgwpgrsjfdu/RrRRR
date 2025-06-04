@@ -13,7 +13,7 @@ SESSION_NAME = getenv("SESSION_NAME", "1BJWap1sAUHrdNkS-5iAVQF--vTjMOq8hOPV2e2Vd
 # mandatory vars
 OWNER_USERNAME = getenv("OWNER_USERNAME", "Turki_1427H") # @ هنا ضع يوزر حسابك بدون 
 ALIVE_NAME = getenv("ALIVE_NAME", "sonng") # هنا ضع اسم حسابك
-BOT_USERNAME = getenv("BOT_USERNAME", "") # @ هنا ضع يوزر البوت بدون 
+BOT_USERNAME = getenv("BOT_USERNAME", "SKNHBOT") # @ هنا ضع يوزر البوت بدون 
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/wlgdwpfvycgwpgrsjfdu/RrRRR") 
 UPSTREAM_BRANCH = getenv("UPSTREM_BRANCH", "main") #لا تغير هاذة القيمة
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "60")) #لا تغير هاذة القيمة
